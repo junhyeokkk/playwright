@@ -10,3 +10,4 @@ tests/har/
 tests/screenshots/
 tests/videos/
 files/
+/init.env
